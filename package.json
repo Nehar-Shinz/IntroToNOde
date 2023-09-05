@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "18.17.1",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nehar-Shinz/IntroToNOde.git"
+  },
+  "author": "Nehar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nehar-Shinz/IntroToNOde/issues"
+  },
+  "homepage": "https://github.com/Nehar-Shinz/IntroToNOde#readme"
+}
